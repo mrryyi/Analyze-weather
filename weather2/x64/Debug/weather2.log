@@ -1,0 +1,20 @@
+﻿  pch.cpp
+c:\users\jrhag\source\repos\weather2\weather2\door.h(28): warning C4101: 'running': unreferenced local variable
+c:\users\jrhag\source\repos\weather2\weather2\timing.h(37): warning C4244: '=': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  Date.cpp
+  Day.cpp
+  Door.cpp
+  Manager.cpp
+c:\users\jrhag\source\repos\weather2\weather2\manager.cpp(217): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jrhag\source\repos\weather2\weather2\manager.cpp(478): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  SliceOfData.cpp
+  TimeOfDay.cpp
+  misc.cpp
+  weather2.cpp
+  Generating Code...
+c:\users\jrhag\source\repos\weather2\weather2\manager.cpp(203): warning C4172: returning address of local variable or temporary
+  weather2.vcxproj -> C:\Users\jrhag\source\repos\weather2\x64\Debug\weather2.exe

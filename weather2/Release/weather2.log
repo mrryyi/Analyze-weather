@@ -1,0 +1,6 @@
+﻿  Manager.cpp
+c:\users\jrhag\source\repos\weather2\weather2\manager.cpp(86): warning C4018: '<': signed/unsigned mismatch
+c:\users\jrhag\source\repos\weather2\weather2\manager.cpp(105): warning C4018: '<': signed/unsigned mismatch
+c:\users\jrhag\source\repos\weather2\weather2\manager.cpp(143): warning C4018: '<': signed/unsigned mismatch
+c:\users\jrhag\source\repos\weather2\weather2\manager.cpp(155): warning C4018: '<': signed/unsigned mismatch
+c:\users\jrhag\source\repos\weather2\weather2\manager.cpp(187): warning C4018: '<': signed/unsigned mismatch

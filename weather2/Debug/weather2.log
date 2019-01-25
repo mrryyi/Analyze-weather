@@ -1,0 +1,18 @@
+﻿  pch.cpp
+  Date.cpp
+  Day.cpp
+c:\users\jrhag\source\repos\weather2\weather2\day.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\jrhag\source\repos\weather2\weather2\day.cpp(48): warning C4018: '<': signed/unsigned mismatch
+c:\users\jrhag\source\repos\weather2\weather2\day.cpp(68): warning C4018: '<': signed/unsigned mismatch
+  Manager.cpp
+c:\users\jrhag\source\repos\weather2\weather2\manager.cpp(86): warning C4018: '<': signed/unsigned mismatch
+c:\users\jrhag\source\repos\weather2\weather2\manager.cpp(105): warning C4018: '<': signed/unsigned mismatch
+c:\users\jrhag\source\repos\weather2\weather2\manager.cpp(143): warning C4018: '<': signed/unsigned mismatch
+c:\users\jrhag\source\repos\weather2\weather2\manager.cpp(155): warning C4018: '<': signed/unsigned mismatch
+c:\users\jrhag\source\repos\weather2\weather2\manager.cpp(187): warning C4018: '<': signed/unsigned mismatch
+  SliceOfData.cpp
+  TimeOfDay.cpp
+  misc.cpp
+  weather2.cpp
+  Generating Code...
+  weather2.vcxproj -> C:\Users\jrhag\source\repos\weather2\Debug\weather2.exe
